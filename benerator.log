@@ -1,0 +1,41 @@
+[INFO ] 2021-11-05 13:50:26.739 [Thread-0] CreateProjectPanel - Creating project benerator-postgresql of type db in /home/adrian/dev/benerator-postgresql
+[INFO ] 2021-11-05 13:50:26.739 [Thread-0] CreateProjectPanel - Creating project benerator-postgresql of type db in /home/adrian/dev/benerator-postgresql
+[INFO ] 2021-11-05 13:50:26.739 [Thread-0] CreateProjectPanel - Creating project benerator-postgresql of type db in /home/adrian/dev/benerator-postgresql
+[INFO ] 2021-11-05 13:50:26.809 [Thread-0] JDBC - Connected to PostgreSQL 10.1
+[INFO ] 2021-11-05 13:50:26.809 [Thread-0] JDBC - Connected to PostgreSQL 10.1
+[INFO ] 2021-11-05 13:50:26.809 [Thread-0] JDBC - Connected to PostgreSQL 10.1
+[INFO ] 2021-11-05 13:50:26.809 [Thread-0] JDBC - Using driver PostgreSQL JDBC Driver 42.2.23
+[INFO ] 2021-11-05 13:50:26.809 [Thread-0] JDBC - Using driver PostgreSQL JDBC Driver 42.2.23
+[INFO ] 2021-11-05 13:50:26.809 [Thread-0] JDBC - Using driver PostgreSQL JDBC Driver 42.2.23
+[INFO ] 2021-11-05 13:50:26.813 [Thread-0] JDBC - JDBC version 4.2
+[INFO ] 2021-11-05 13:50:26.813 [Thread-0] JDBC - JDBC version 4.2
+[INFO ] 2021-11-05 13:50:26.813 [Thread-0] JDBC - JDBC version 4.2
+[INFO ] 2021-11-05 13:50:26.853 [Thread-0] JDBCDBImporter - Importing tables from schema 'public'
+[INFO ] 2021-11-05 13:50:26.853 [Thread-0] JDBCDBImporter - Importing tables from schema 'public'
+[INFO ] 2021-11-05 13:50:26.855 [Thread-0] DefaultDBSystem - Fetching table details and ordering tables by dependency
+[INFO ] 2021-11-05 13:50:26.855 [Thread-0] DefaultDBSystem - Fetching table details and ordering tables by dependency
+[INFO ] 2021-11-05 13:50:26.855 [Thread-0] DefaultDBSystem - Fetching table details and ordering tables by dependency
+[INFO ] 2021-11-05 13:50:26.892 [Thread-0] JDBC - Connected to PostgreSQL 10.1
+[INFO ] 2021-11-05 13:50:26.892 [Thread-0] JDBC - Connected to PostgreSQL 10.1
+[INFO ] 2021-11-05 13:50:26.892 [Thread-0] JDBC - Connected to PostgreSQL 10.1
+[INFO ] 2021-11-05 13:50:26.893 [Thread-0] JDBC - Using driver PostgreSQL JDBC Driver 42.2.23
+[INFO ] 2021-11-05 13:50:26.893 [Thread-0] JDBC - Using driver PostgreSQL JDBC Driver 42.2.23
+[INFO ] 2021-11-05 13:50:26.893 [Thread-0] JDBC - Using driver PostgreSQL JDBC Driver 42.2.23
+[INFO ] 2021-11-05 13:50:26.893 [Thread-0] JDBC - JDBC version 4.2
+[INFO ] 2021-11-05 13:50:26.893 [Thread-0] JDBC - JDBC version 4.2
+[INFO ] 2021-11-05 13:50:26.893 [Thread-0] JDBC - JDBC version 4.2
+[INFO ] 2021-11-05 13:50:26.908 [Thread-0] JDBCDBImporter - Importing tables from schema 'public'
+[INFO ] 2021-11-05 13:50:26.908 [Thread-0] JDBCDBImporter - Importing tables from schema 'public'
+[INFO ] 2021-11-05 13:50:26.911 [Thread-0] DefaultDBSystem - Fetching table details and ordering tables by dependency
+[INFO ] 2021-11-05 13:50:26.911 [Thread-0] DefaultDBSystem - Fetching table details and ordering tables by dependency
+[INFO ] 2021-11-05 13:50:26.911 [Thread-0] DefaultDBSystem - Fetching table details and ordering tables by dependency
+[INFO ] 2021-11-05 13:50:26.912 [Thread-0] DBSnapshotTool - Starting export
+[INFO ] 2021-11-05 13:50:26.912 [Thread-0] DBSnapshotTool - Starting export
+[INFO ] 2021-11-05 13:50:26.912 [Thread-0] DBSnapshotTool - Starting export
+[WARN ] 2021-11-05 13:50:26.912 [Thread-0] DBSnapshotTool - No entities found for snapshot.
+[WARN ] 2021-11-05 13:50:26.912 [Thread-0] DBSnapshotTool - No entities found for snapshot.
+[WARN ] 2021-11-05 13:50:26.912 [Thread-0] DBSnapshotTool - No entities found for snapshot.
+[INFO ] 2021-11-05 13:50:26.915 [Thread-0] CachingDBImporter - Exporting Database meta data of ___temp to cache file
+[INFO ] 2021-11-05 13:50:26.915 [Thread-0] CachingDBImporter - Exporting Database meta data of ___temp to cache file
+[INFO ] 2021-11-05 13:50:26.985 [Thread-0] CachingDBImporter - Exporting Database meta data of ___temp to cache file
+[INFO ] 2021-11-05 13:50:26.985 [Thread-0] CachingDBImporter - Exporting Database meta data of ___temp to cache file
