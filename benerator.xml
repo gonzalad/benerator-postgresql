@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<setup xmlns="https://www.benerator.de/schema/2.0.0-jdk-11"
+<setup xmlns="https://www.benerator.de/schema/2.0.0"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="https://www.benerator.de/schema/2.0.0-jdk-11 benerator-2.0.0-jdk-11.xsd"
+        xsi:schemaLocation="https://www.benerator.de/schema/2.0.0-jdk-11 benerator-2.0.0.xsd"
         defaultEncoding="UTF-8"
         defaultDataset="US"
         defaultLocale="en_US"
@@ -31,15 +31,13 @@
         CREATE TABLE accounts (
         user_id serial PRIMARY KEY,
         username VARCHAR ( 50 ) UNIQUE NOT NULL,
-        password VARCHAR ( 50 ) NOT NULL,
-        email VARCHAR ( 255 ) UNIQUE NOT NULL,
-        created_on TIMESTAMP NOT NULL,
-        last_login TIMESTAMP
+        user_uuid uuid UNIQUE NOT NULL
         );
     </execute>
 
     <echo>Generating 100 entries for testtable</echo>
     <generate type="accounts" consumer="db,ConsoleExporter" count="100">
         <id name="id"/>
+        <attribute name="user_uuid" script="{java.util.UUID.randomUUID()}"/>
     </generate>
 </setup>
